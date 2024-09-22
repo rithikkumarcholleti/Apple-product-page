@@ -1,0 +1,33 @@
+{
+  "product": {
+    "name": "Apple iPhone 15 (128 GB) - Black",
+    "description": "DYNAMIC ISLAND COMES TO IPHONE 15 — Dynamic Island bubbles up alerts and Live Activities — so you don’t miss them while you’re doing something else. You can see who’s calling, track your next ride, check your flight status, and so much more.",
+    "features": [
+      "Innovative Design: Durable color-infused glass and aluminum design.",
+      "48MP Main Camera with 2x Telephoto: Shoot in super-high resolution.",
+      "Next-Generation Portraits: Dramatically more detail and color.",
+      "Powerhouse A16 Bionic Chip: Superfast and efficient."
+    ],
+    "colors": ["Black", "Blue", "Green", "Pink", "Yellow"],
+    "price": "₹65,900",
+    "availability": "In Stock",
+    "specifications": "128GB, 256GB, 512GB",
+    "ratings": "4.7 out of 5 stars",
+    "ratingsCount": "2,190 ratings",
+    "offers": [
+      "Upto ₹1,500 discount on select Credit Cards.",
+      "No Cost EMI available.",
+      "Get GST invoice and save up to 28% on business purchases."
+    ],
+    "reviews": [
+      { "user": "John", "comment": "Great phone!", "rating": 5 },
+      { "user": "Jane", "comment": "Worth every penny.", "rating": 4 }
+    ]
+  },
+  "relatedProducts": [
+    { "image": "/images/iphone13.jpg", "description": "Apple iPhone 13 (128GB) - Midnight", "price": "47,500" },
+    { "image": "/images/iphone15promax.jpg", "description": "Apple iPhone 15 Pro Max (256 GB) - Black Titanium", "price": "140,999" },
+    { "image": "/images/iphone14pro.jpg", "description": "Apple iPhone 14 Pro (1 TB) - Space Black", "price": "179,000" },
+    { "image": "/images/iphone16.jpg", "description": "Apple iPhone 16 Plus (128 GB) - Ultramarine", "price": "89,000" }
+  ]
+}
