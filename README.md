@@ -39,6 +39,8 @@ Usage
 
 Screenshots
 https://drive.google.com/drive/folders/1MD6aGJjXjAvPTbZF2M_DtsmfJ3ICz1BJ
+![Screenshot 2024-09-26 154503](https://github.com/user-attachments/assets/e0d4eae0-cd5b-4ade-a388-cc3c99182407)
+
 
 Folder Structure
 /apple-product-page
